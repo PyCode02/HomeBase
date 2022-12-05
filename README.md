@@ -1,3 +1,3 @@
 # HomeBase
 New to coding trying to learn.
-<h6> hi </h6>
+<h6> small things make me happy. </h6>
